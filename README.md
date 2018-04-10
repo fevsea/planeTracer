@@ -1,5 +1,6 @@
+# What does does it do
 
-
+It's a tool that periodically pull the air traffic from dump1090 and store it in a database (by default SQLite) for future use.
 
 
 # Requeriments
